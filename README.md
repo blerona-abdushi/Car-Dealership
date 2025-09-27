@@ -30,4 +30,5 @@ managing interactivity with JavaScript
 
 building a pleasant and functional user experience for browsing and buying cars online
 
-🔗 [Live Demo](https://workforce-pro-phi.vercel.app)
+🔗 [Live Demo](https://car-dealership-psi.vercel.app)
+
